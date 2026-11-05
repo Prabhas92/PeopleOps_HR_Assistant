@@ -1,0 +1,6 @@
+streamlit
+databricks-sql-connector
+databricks-sdk
+databricks-langchain==0.22.0
+langgraph==1.0.10
+langgraph-prebuilt==1.0.8

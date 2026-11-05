@@ -1,0 +1,13 @@
+emp_id,full_name,email,department,location,manager_id,grade,join_date
+E1001,Ananya Rao,ananya.rao@nimbus-analytics.example,Data Engineering,Bengaluru,E1010,G3,2023-06-12
+E1002,Rohit Verma,rohit.verma@nimbus-analytics.example,Data Engineering,Pune,E1010,G2,2025-02-03
+E1003,Meera Iyer,meera.iyer@nimbus-analytics.example,Finance,Bengaluru,E1011,G4,2021-09-20
+E1004,Karthik Reddy,karthik.reddy@nimbus-analytics.example,Sales,Hyderabad,E1012,G3,2022-11-01
+E1005,Sneha Kulkarni,sneha.kulkarni@nimbus-analytics.example,HR,Pune,E1013,G4,2020-04-15
+E1006,Arjun Nair,arjun.nair@nimbus-analytics.example,Data Science,Bengaluru,E1010,G5,2019-08-05
+E1007,Priya Menon,priya.menon@nimbus-analytics.example,Sales,Bengaluru,E1012,G2,2026-03-02
+E1008,Vikram Singh,vikram.singh@nimbus-analytics.example,Finance,Hyderabad,E1011,G3,2024-01-08
+E1010,Lakshmi Prasad,lakshmi.prasad@nimbus-analytics.example,Data Engineering,Bengaluru,,G6,2017-05-22
+E1011,Farhan Sheikh,farhan.sheikh@nimbus-analytics.example,Finance,Hyderabad,,G6,2018-10-10
+E1012,Divya Joshi,divya.joshi@nimbus-analytics.example,Sales,Bengaluru,,G6,2016-12-01
+E1013,Neha Gupta,neha.gupta@nimbus-analytics.example,HR,Pune,,G7,2015-07-14

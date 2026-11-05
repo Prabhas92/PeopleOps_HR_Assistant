@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Databricks credentials
+.databrickscfg
+
+# Editor files
+.DS_Store
+.vscode/
+
+# Logs
+*.log
