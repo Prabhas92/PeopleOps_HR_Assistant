@@ -65,7 +65,7 @@ The solution is organized into four major layers:
 ### Architecture Diagram
 
 <p align="center">
-  <img src="architecture.png" alt="PeopleOps HR Assistant Architecture" width="100%" />
+  <img src="images/architecture.png" alt="PeopleOps HR Assistant Architecture" width="100%" />
 </p>
 
 > **Note:** Add your architecture diagram to the repository root and name it `architecture.png`, or update the image path above to match your actual filename.
@@ -298,8 +298,7 @@ Before running the project, ensure you have:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-
+git clone https://github.com/Prabhas92/PeopleOps_HR_Assistant
 cd PeopleOps-HR-Assistant
 ```
 
