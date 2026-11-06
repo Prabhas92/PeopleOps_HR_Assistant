@@ -65,7 +65,7 @@ The solution is organized into four major layers:
 ### Architecture Diagram
 
 <p align="center">
-  <img src="images/architecture.png" alt="PeopleOps HR Assistant Architecture" width="100%" />
+  <img src="images/Architecture.png" alt="PeopleOps HR Assistant Architecture" width="100%" />
 </p>
 
 > **Note:** Add your architecture diagram to the repository root and name it `architecture.png`, or update the image path above to match your actual filename.
