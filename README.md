@@ -27,6 +27,12 @@ Traditional HR support processes can lead to repetitive queries, delayed respons
 
 Employees can ask questions in natural language, retrieve relevant HR policy information, check their employee and leave details, and raise HR support tickets through a single conversational interface.
 
+## 🎬 Project Demo
+
+▶️ **Watch the complete project walkthrough on YouTube:**
+
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Project%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/EdR3X5RBDJo)
+
 ### 🎯 Project Objectives
 
 - Centralize access to HR policy information.
