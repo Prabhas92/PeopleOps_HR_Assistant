@@ -240,29 +240,41 @@ This workflow introduces a human confirmation step before a database write opera
 The project contains notebook-based development and a separate application layer.
 
 ```text
+📂 Project Structure
+
 PeopleOps-HR-Assistant/
 │
-├── notebooks/
-│   ├── 00_dependencies
-│   ├── 01_document_processing
-│   ├── 02_chunking_and_embeddings
-│   ├── 03_vector_search
-│   ├── 04_agent_creation
-│   ├── 05_employee_leave_sql
-│   ├── 06_unified_agent
-│   └── 07_evaluation_and_tracing
-│
 ├── app/
-│   ├── app.py
-│   ├── peopleops_agent.py
-│   └── app.yaml
+│   ├── app.py                       # Streamlit application
+│   ├── app.yaml                     # Databricks App configuration
+│   └── peopleops_agent.py           # LangGraph AI agent and tools
+│
+├── hr-docs/
+│   ├── Code_of_Conduct.pdf
+│   ├── Holiday_Calendar_2026.pdf
+│   ├── Hybrid_Work_Policy.pdf
+│   ├── Leave_Policy_2024_SUPERSEDED.pdf
+│   ├── Leave_Policy_2026.pdf
+│   ├── Notice_Diwali_Holiday_scanned.png
+│   └── Travel_and_Expense_Policy.pdf
 │
 ├── images/
-│   ├── problem statement
-│   ├── solution
-│   └── architecture
+│   ├── Architecture.png             # Solution architecture
+│   ├── ProblemStatement.png         # Business problem
+│   └── Solution.png                 # Proposed solution
 │
-└── README.md
+├── notebooks/                       # Databricks AI engineering notebooks
+│
+├── sample-data/
+│   ├── employees.csv                # Sample employee records
+│   └── leave_balance.csv            # Sample leave records
+│
+├── sql/
+│   └── HR_Support_Ticket.sql         # HR support ticket table definition
+│
+├── .gitignore                       # Git exclusions and sensitive files
+├── README.md                        # Project documentation
+└── requirements.txt                 # Python dependencies
 ```
 
 > The folder names above are a suggested organization for the GitHub repository. Adjust them to match the actual notebook and application filenames.
