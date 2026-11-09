@@ -33,6 +33,16 @@ Employees can ask questions in natural language, retrieve relevant HR policy inf
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Project%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/EdR3X5RBDJo)
 
+## 📝 Technical Blog Series
+
+Explore the complete implementation through this two-part Medium blog series:
+
+### Part 1: Building the Knowledge Layer
+[From Data Engineering to Agentic AI: Building an Intelligent HR Assistant with Databricks — Part 1](https://medium.com/@jc.prabhaswork/from-data-engineering-to-agentic-ai-building-an-intelligent-hr-assistant-with-databricks-f2cf8ecdcb0d)
+
+### Part 2: Building the Agentic AI Application
+[From Data Engineering to Agentic AI: Building an Intelligent HR Assistant with Databricks — Part 2](https://medium.com/@jc.prabhaswork/from-data-engineering-to-agentic-ai-building-an-intelligent-hr-assistant-with-databricks-b7494076acc3)
+
 ### 🎯 Project Objectives
 
 - Centralize access to HR policy information.
