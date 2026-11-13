@@ -364,7 +364,7 @@ Do not hardcode access tokens, passwords, or secrets in source code.
 ### Step 5: Run the Streamlit Application
 
 ```bash
-streamlit run app.py
+streamlit run app/app.py
 ```
 
 Open the local Streamlit URL displayed in the terminal.
